@@ -11,4 +11,5 @@
 
 ### Get touch in with me🌏
 * Portfolio - [visit](https://huzaifa-sheikh.netlify.app/)
+* LinkedIn - [visit](https://www.linkedin.com/in/huzaifa-sheikh-0974a5236/)
 
