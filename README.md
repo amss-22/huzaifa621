@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Sheikh</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer who loves to do experiments, liked to clone websites and always hungry for learning new things👨🏼‍💻.</h4>
+<h4 align="center">I'm a passionate Full Stack Web developer who loves to do experiments🧪, likes to clone websites🌐 and always hungry for learning new things😃</h4>
 
-* Some technologies that I enjoy to working with includes MERN stack ( MongoDB, ExpressJS, ReactJS, NodeJS ), Typescript and testing.
-* I have learned couple of CSS libraries like Bootstrap and styled-components.
-* I'm currently digging dip into javascript and working on some solo projects✨.
-* My interests includes plantation, sky gazing and exploring web3😄.
+⚛️ Some technologies that I enjoy to working with includes MERN stack ( MongoDB, ExpressJS, ReactJS, NodeJS ), Typescript and testing.
+
+🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap and styled-components.
+
+✨ I'm currently digging dip into javascript and working on some solo projects.
+
+😄 My interests includes Cybersecurity and Blockchain technology.
 
 ### Get in touch with me 🌏
 * Email - huzaifasheikh7860123@gmail.com
-* Portfolio - [visit](https://huzaifa-sheikh.netlify.app/)
+* Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sheikh-0974a5236/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@huzaifasheikh7860123)
 
 # 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -35,5 +38,7 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa621&theme=react&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa621&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
