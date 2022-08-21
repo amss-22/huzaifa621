@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Huzaifa Sheikh</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨. I'm currently working on my Data Structures and Algorithms 🤓.</h4>
+<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 
 ⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
