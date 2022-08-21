@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Huzaifa Sheikh</h1>
-<h4 align="center">I'm a passionate Full Stack Web developer who loves to do experiments🧪, likes to clone websites🌐 and always hungry for learning new things😃</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Huzaifa Sheikh</h1>
+<h4 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things😃. I focuses on writing clean, elegant & efficient code✨. I'm currently working on my Data Structures and Algorithms🤓.</h4>
 
-⚛️ Some technologies that I enjoy to working with includes MERN stack ( MongoDB, ExpressJS, ReactJS, NodeJS ), Typescript and testing.
+⚛️ Some technologies that I love to working with includes MERN stack, Typescript & Web Testing.
 
-🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap and styled-components.
+🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-✨ I'm currently digging dip into javascript and working on some solo projects.
+😃 My interests includes Cybersecurity & Blockchain technology.
 
-😄 My interests includes Cybersecurity and Blockchain technology.
+📧 Email - huzaifasheikh7860123@gmail.com
 
-### Get in touch with me 🌏
-* Email - huzaifasheikh7860123@gmail.com
-* Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
+💼 Portfolio - [huzaifa-sheikh.netlify.app](https://huzaifa-sheikh.netlify.app/)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-sheikh-0974a5236/) 
